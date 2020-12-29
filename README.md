@@ -1,1 +1,3 @@
-# student system using file and indexing strategy  and object-orinted
+# student system 
+
+using file, indexing strategy and object-oriented
